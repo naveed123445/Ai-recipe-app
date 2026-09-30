@@ -1,0 +1,7 @@
+{
+  "name": "Food Alchemist",
+  "description": "Turn what you have into something amazing with AI recipe fusion, kitchen inventory, and smart cooking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
